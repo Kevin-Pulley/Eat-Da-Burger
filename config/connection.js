@@ -11,7 +11,7 @@ if(process.env.JAWSDB_URL){
     password: "sony1234",
     database: "burger_db"
   })
-}
+};
 
 
 
